@@ -6,7 +6,6 @@ beeOS=version
 
 open !settings
 
-make !folder
 
 exit
 
